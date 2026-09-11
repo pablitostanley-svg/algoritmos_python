@@ -11,3 +11,9 @@ print("### CALCULADORA PYTHON ###")
     return resultado
 
     print,("Resultado da subtração:", subtracao(89,33))
+
+     def multiplicacao (num1,num2):
+    resultado = num1 * num2
+    return resultado
+
+    print,("Resultado da multiplicação:", multiplicacao(7,8))
